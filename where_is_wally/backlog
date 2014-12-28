@@ -1,0 +1,12 @@
+
+* ordentliche Abbruchbedingungen
+  - abort() bei Tastendruck!!
+  - len(sniffer.samples) == enough führt nicht zum Abbruch (Warum?)
+
+* sniffer.color
+  - Wie bekommt man den Farbwert?
+  - Warum leuchtet die Lampe?
+
+* Rechtsdrall beim Fahren (Linker Motor stärker? Stützrad hinten?)
+
+* Kopf muss am Ende von motors.turn_head wieder nach vorne schauen (ein Problem: Kabel)
